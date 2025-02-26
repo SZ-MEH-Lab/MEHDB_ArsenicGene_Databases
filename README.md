@@ -3,7 +3,7 @@ This repository contains arsenic (As) metabolism gene databases, including aioA,
 
 If you use the databases of aioA, arxA, arrA, arsC1, and arsC2 genes, please cite the paper at Microbiome (https://doi.org/10.1186/s40168-024-01952-4).
 
-If you use the databases of arsM, arsI, and arsP genes, please cite the paper at Environ Sci Technol (https://doi.org/10.1021/acs.est.4c08620).
+To enhance computational efficiency and analytical precision, we implemented a deduplication process with a 90% sequence similarity cutoff for the arsM, arsP, and arsI gene databases, effectively reducing sequence redundancy while maintaining genetic diversity. If you use the databases of arsM, arsI, and arsP genes, please cite the paper at Environ Sci Technol (https://doi.org/10.1021/acs.est.4c08620).
 
 # Citation
 1. Zhao, XD., Gao, ZY., Peng, JJ. et al. Various microbial taxa couple arsenic transformation to nitrogen and carbon cycling in paddy soils. Microbiome 12, 238 (2024).
