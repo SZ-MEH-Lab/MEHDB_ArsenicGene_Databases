@@ -5,3 +5,6 @@ If you use the databases of aioA, arxA, arrA, arsC1, and arsC2 genes, please cit
 
 If you use the databases of arsM, arsI, and arsP genes, please cite the paper at Environ Sci Technol (https://doi.org/10.1021/acs.est.4c08620).
 
+# Citation
+1. Zhao, XD., Gao, ZY., Peng, JJ. et al. Various microbial taxa couple arsenic transformation to nitrogen and carbon cycling in paddy soils. Microbiome 12, 238 (2024).
+2. Gao, ZY., Zhao, XD., Chen, Chuan. et al. Paddy Soil Flooding and Nonflooding Affect the Transcriptional Activity of Arsenic Methylation and Demethylation Communities. Environ Sci Technol (2025).
