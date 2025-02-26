@@ -3,7 +3,8 @@ This repository contains arsenic (As) metabolism gene databases, including aioA,
 
 If you use the databases of aioA, arxA, arrA, arsC1, and arsC2 genes, please cite the paper at Microbiome (https://doi.org/10.1186/s40168-024-01952-4).
 
-To enhance computational efficiency and analytical precision, we implemented a deduplication process with a 90% sequence similarity cutoff for the arsM, arsP, and arsI gene databases, effectively reducing sequence redundancy while maintaining genetic diversity. If you use the databases of arsM, arsI, and arsP genes, please cite the paper at Environ Sci Technol (https://doi.org/10.1021/acs.est.4c08620).
+To enhance computational efficiency and analytical precision, we implemented **a deduplication process with a 90% sequence similarity cutoff for the arsM, arsP, and arsI gene databases,** effectively reducing sequence redundancy while maintaining genetic diversity.\
+If you use the databases of arsM, arsI, and arsP genes, please cite the paper at Environ Sci Technol (https://doi.org/10.1021/acs.est.4c08620).
 
 Please note that the Asgenes_DB represents a comprehensive integration of eight As gene databases, including aioA, arxA, arrA, arsC1, arsC2, arsM, arsI, and arsP gene sequences.
 
