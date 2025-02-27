@@ -12,5 +12,3 @@ Please note that the Asgenes_DB represents a comprehensive integration of eight 
 1. Zhao, XD., Gao, ZY., Peng, JJ., et al. Various microbial taxa couple arsenic transformation to nitrogen and carbon cycling in paddy soils. Microbiome 12, 238 (2024).
 
 2. Gao, ZY., Zhao, XD., Chen, C., et al. Paddy Soil Flooding and Nonflooding Affect the Transcriptional Activity of Arsenic Methylation and Demethylation Communities. Environ Sci Technol 59, 3548–3561 (2025).
-
-3. Orellana, LH., Rodriguez-R, LM., & Konstantinidis, KT. ROCker: accurate detection and quantification of target genes in short-read metagenomic data sets by modeling sliding-window bitscores. Nucleic Acids Res 45, e14 (2017).
