@@ -9,6 +9,8 @@ If you use the databases of arsM, arsI, and arsP genes, please cite the paper at
 Please note that the Asgenes_DB represents a comprehensive integration of eight As gene databases, including aioA, arxA, arrA, arsC1, arsC2, arsM, arsI, and arsP gene sequences.
 
 # Citation
-1. Zhao, XD., Gao, ZY., Peng, JJ. et al. Various microbial taxa couple arsenic transformation to nitrogen and carbon cycling in paddy soils. Microbiome 12, 238 (2024).
+1. Zhao, XD., Gao, ZY., Peng, JJ., et al. Various microbial taxa couple arsenic transformation to nitrogen and carbon cycling in paddy soils. Microbiome 12, 238 (2024).
 
-2. Gao, ZY., Zhao, XD., Chen, C. et al. Paddy Soil Flooding and Nonflooding Affect the Transcriptional Activity of Arsenic Methylation and Demethylation Communities. Environ Sci Technol 59, 3548–3561 (2025).
+2. Gao, ZY., Zhao, XD., Chen, C., et al. Paddy Soil Flooding and Nonflooding Affect the Transcriptional Activity of Arsenic Methylation and Demethylation Communities. Environ Sci Technol 59, 3548–3561 (2025).
+
+3. Orellana, L. H., Rodriguez-R, L. M., & Konstantinidis, K. T. ROCker: accurate detection and quantification of target genes in short-read metagenomic data sets by modeling sliding-window bitscores. Nucleic acids research 45, e14 (2017).
